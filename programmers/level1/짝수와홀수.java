@@ -1,4 +1,4 @@
-package programmers;
+package programmers.level1;
 
 /**
  * num 짝수인 경우 "Even", 홀수인 경우 "Odd"

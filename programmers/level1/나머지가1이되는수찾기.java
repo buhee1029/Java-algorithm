@@ -1,4 +1,4 @@
-package programmers;
+package programmers.level1;
 
 public class 나머지가1이되는수찾기 {
     public static void main(String[] args) {

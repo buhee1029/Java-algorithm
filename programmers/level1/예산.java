@@ -15,7 +15,7 @@ public class 예산 {
         Arrays.sort(d);
 
         for (int n : d) {
-            if (remaining< n) {
+            if (remaining < n) {
                 break;
             }
 
